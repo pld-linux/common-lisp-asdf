@@ -23,7 +23,7 @@ bibliotek Common Lispa.
 
 %prep
 %setup -q -n asdf
-%patch0 -p1
+%patch -P0 -p1
 
 %build
 %{__make} -C doc -j1 asdf.html manual-html
