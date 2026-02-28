@@ -2,7 +2,7 @@ Summary:	Another System Definition Facility - package format for Common Lisp lib
 Summary(pl.UTF-8):	Another System Definition Facility - format pakietów bibliotek Common Lispa
 Name:		common-lisp-asdf
 Version:	20101028
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Libraries
 Source0:	http://pkgs.fedoraproject.org/repo/pkgs/cl-asdf/cl-asdf-%{version}.tar.bz2/f258de374780dcf5ad3ffeff422047ff/cl-asdf-%{version}.tar.bz2
